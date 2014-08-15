@@ -1,0 +1,43 @@
+<style type="text/css">
+.fsize13 {font-size: 13px;}
+.fsize16 {font-size: 16px;}
+.fsize19 {font-size: 19px;}
+.linkdec {text-decoration: none;}
+
+a:link {color: #9e0b0e;}
+a:hover {color: #e80000;}
+a:active {color: #808080;}
+a:visited {color: #595959;}
+
+body {margin:0px;text-align:center;height:100%;width:100%;}
+
+#centered{position:relative;width:734px;height:100%;margin:0px auto 0 auto;text-align:left;padding-left:1px;}
+
+#header {position:absolute;z-index:2;visibility:visible;left:0px;top:0px;width:735px;height:58px;}
+#title {position:absolute;z-index:3;visibility:visible;text-align:left;left:16px;top:6px;width:503px;height:44px;}
+
+#navbg {position:absolute;z-index:6;visibility:visible;left:16px;top:57px;width:703px;height:24px;}
+#navdiv1 {position:absolute;z-index:9;visibility:visible;left:145px;top:59px;width:3px;height:22px;}
+#portada {position:absolute;z-index:20;visibility:visible;text-align:left;left:186px;top:61px;width:77px;height:21px;}
+#navdiv2 {position:absolute;z-index:10;visibility:visible;left:285px;top:59px;width:3px;height:22px;}
+#articulos {position:absolute;z-index:21;visibility:visible;text-align:left;left:322px;top:61px;width:94px;height:21px;}
+#navdiv3 {position:absolute;z-index:11;visibility:visible;left:440px;top:59px;width:3px;height:22px;}
+#contactos {position:absolute;z-index:22;visibility:visible;text-align:left;left:476px;top:61px;width:97px;height:21px;}
+#navdiv4 {position:absolute;z-index:12;visibility:visible;left:592px;top:59px;width:3px;height:22px;}
+
+#graybg {position:absolute;z-index:4;visibility:visible;left:16px;top:79px;width:700px;height:140px;font-size:1px;border-width:1px;border-style:solid;border-color:#9e0b0e}
+#greet {position:absolute;z-index:23;visibility:visible;left:26px;top:87px;width:499px;height:124px;font-size:1px;}
+
+#bgcontent {position:absolute;z-index:1;visibility:visible;left:15px;top:220px;width:703px;height:292px;}
+#content {position:absolute;z-index:15;visibility:visible;text-align:left;left:25px;top:230px;width:445px;height:260px;}
+.articlepic {position:absolute;z-index:19;visibility:visible;left:500px;top:284px;width:164px;height:161px;}
+
+#newsbg {position:absolute;z-index:5;visibility:visible;left:483px;top:218px;width:235px;height:292px;}
+#newsheadbg {position:absolute;z-index:16;visibility:visible;left:484px;top:220px;width:232px;height:31px;}
+#newshead {position:absolute;z-index:17;visibility:visible;text-align:left;left:493px;top:225px;width:150px;height:22px;}
+#news {position:absolute;z-index:19;visibility:visible;text-align:left;left:492px;top:260px;width:225px;height:250px;}
+
+#footer {position:absolute;z-index:7;visibility:visible;left:0px;top:510px;width:735px;height:58px;}
+#copyright {position:absolute;z-index:8;visibility:visible;text-align:left;left:266px;top:530px;width:220px;height:21px;}
+
+</style>
